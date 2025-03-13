@@ -1,0 +1,13 @@
+$$\left\{ \begin{array}{l} 2 x-5 y+4 z+5 t = 11 \\ 4 y+ z-3 t =3 \\ 5 x-2 y+ z+2 t = 20 \\  x-2 y-3 z- t = 5 \end{array} \right.$$
+Respuesta 2 Pregunta 1
+Elige una opción…
+$$\left\{ \begin{array}{l} 3 x+3 y-12 z = 9 \\ -3 x-3 y+12 z = -13 \\ - x- y+4 z = 1 \end{array} \right.$$
+Respuesta 3 Pregunta 1
+Elige una opción…
+$$\left\{ \begin{array}{l} -9 x = 3 \\ -3 x+7 y = 7 \end{array} \right.$$
+Respuesta 4 Pregunta 1
+Elige una opción…
+$$\left\{ \begin{array}{l} 3 x+2 y-3 z = 2 \\ 2 x+ y-2 z = 2 \\ 2 x+2 y-3 z = 0 \end{array} \right.$$
+Respuesta 5 Pregunta 1
+Elige una opción…
+$$\left\{ \begin{array}{l} -15 x+6 y+12 z = -12 \\ 3 x-4 y+5 z = 2 \\ 14 x-14 y+11 z = 10 \end{array} \
